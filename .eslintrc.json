@@ -30,6 +30,7 @@
     "prettier"
   ],
   "rules": {
+    "@typescript-eslint/camelcase": "off",
     "react/props-types": "off",
     "react/jsx-props-no-spreading": "off",
     "no-unused-expressions": "off",
